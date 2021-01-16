@@ -1,3 +1,3 @@
 #!/bin/bash
 touch hello.txt
-touch ~/second.txt
+touch ~/first.txt
